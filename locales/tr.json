@@ -1,0 +1,11 @@
+{
+    "hello": "Merhaba",
+    "goodbye": "Hoşçakal",
+    "pageTitles": {
+        "about": "Hakkımda",
+        "resume": "Özgeçmiş",
+        "portfolio": "Portfolyo",
+        "blog": "Blog",
+        "contact": "İletişim"
+    }
+}
